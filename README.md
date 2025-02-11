@@ -44,8 +44,9 @@ After the simulations were complete, I took a deep dive into the results:
 
 The final output is a distribution of simulated future scores based on my past performance. Some key takeaways:
 - I now have a good sense of the **likely range** of scores I might shoot in future rounds.
-- I can see the **probability** of hitting certain score targets, like breaking 80 or hitting a certain handicap level.
-- It gives me a clearer idea of how much **variance** to expect in my game going forward.
+- I can see the **probability** of hitting certain score targets, like breaking 80 or getting to a certain handicap level.
+- It gives me a clearer idea of how much **variance** to expect in my game going forward (which is usually very high unfortunately).
+  
   ![Simulation Results](scores_hist.png)
 
 ## Tools & Technologies
