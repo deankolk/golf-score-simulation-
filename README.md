@@ -46,6 +46,7 @@ The final output is a distribution of simulated future scores based on my past p
 - I now have a good sense of the **likely range** of scores I might shoot in future rounds.
 - I can see the **probability** of hitting certain score targets, like breaking 80 or hitting a certain handicap level.
 - It gives me a clearer idea of how much **variance** to expect in my game going forward.
+  ![Simulation Results](scores_hist.png)
 
 ## Tools & Technologies
 
