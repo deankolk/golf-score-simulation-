@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project takes my personal golf scores and uses them to predict what my future rounds might look like. After running 1000 simulations based on the **Normal Distribution**, the goal is to give me a sense of the range of possible scores I might shoot in upcoming rounds. Whether you’re just curious about your own game or want to get a better idea of what to expect in the future, this simulation is a fun way to see what’s possible.
+This project takes my personal golf scores collected from my own GHIN account and uses them to predict what my future rounds might look like. After running 1000 simulations based on the **Normal Distribution**, the goal is to give me a sense of the range of possible scores I might shoot in upcoming rounds. Whether you’re just curious about your own game or want to get a better idea of what to expect in the future, this simulation is a fun way to see what’s possible.
 
 ## Key Features
 
